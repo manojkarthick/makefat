@@ -1,3 +1,3 @@
 module github.com/randall77/makefat
 
-go 1.13
+go 1.17
